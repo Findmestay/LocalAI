@@ -46,7 +46,7 @@ docker run -p 8080:8080 --name local-ai -ti localai/localai:latest
 
 For complete installation instructions, see the [Installation guide](/installation/).
 
-## Get Started
+## Get Started.
 
 1. **[Install LocalAI](/installation/)** - Choose your installation method (Docker recommended)
 2. **[Quickstart Guide](/getting-started/quickstart/)** - Get started quickly after installation
